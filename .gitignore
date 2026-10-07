@@ -1,0 +1,5 @@
+.venv/
+.env
+recruitr-day10-audit-log-82f88-firebase-adminsdk-fbsvc-8365176395.json
+__pycache__/
+*.pyc
